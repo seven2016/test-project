@@ -1,0 +1,4 @@
+URL: https://reqres.in/api/login
+Payload: {'email': 'eve.holt@reqres.in', 'password': ''}
+Status Code: 400
+Response: {"error":"Missing password"}
